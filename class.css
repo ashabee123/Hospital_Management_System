@@ -1,0 +1,27 @@
+.card{
+    background-color:#000000e6;
+    border-radius:15px;
+    padding:20px;
+    margin:20px;
+    color:white;
+    
+}
+.card1{
+    background-color:skyblue;
+    border-radius:15px;
+    padding:20px;
+    margin:20px;
+    color:white;
+    
+}
+.para{
+	color:black;
+}
+.card2{
+    background-color:   #ea8fe6 ;
+    border-radius:15px;
+    padding:20px;
+    margin:20px;
+    color:black;
+    
+}

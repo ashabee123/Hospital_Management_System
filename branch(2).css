@@ -1,0 +1,226 @@
+.card{
+    background-image:url("hospitals.jpg");
+    background-size:cover;
+    height: 100vh;
+    width:100vw;
+    margin:15px;
+}
+.heading1{
+    color:white;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Robot";
+    padding: 10px;
+}
+.card2{
+    background-color: white;
+    border-radius: 20px;
+    margin:15px;
+
+}
+.image{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para{
+    padding: 10px;
+    font-family:italic;
+}
+.heading2{
+    color:#0f0e46;
+    font-weight: bold;
+    padding:8px;
+    font-size:30px;
+}
+.fig{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card3{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading3{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 8px;
+}
+.image2{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para2{
+    padding: 7px;
+}
+.fig1{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card4{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading4{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 15px;
+}
+.image3{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para3{
+    padding: 7px;
+}
+.fig3{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card5{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading5{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 15px;
+}
+.image4{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para4{
+    padding: 7px;
+}
+.fig4{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card6{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading6{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 15px;
+}
+.image5{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para5{
+    padding: 7px;
+}
+.fig5{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card7{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading7{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 15px;
+}
+.image6{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para6{
+    padding: 7px;
+}
+.fig6{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card8{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading8{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 15px;
+}
+.image7{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para7{
+    padding: 7px;
+}
+.fig7{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+.card9{
+    background-color: white;
+    border-radius: 15px;
+    margin: 15px;
+}
+.heading9{
+    color:#0f0e46;
+    font-size: 30px;
+    font-family: "Robot";
+    font-weight: bold;
+    padding: 15px;
+}
+.image8{
+    width:200px;
+    height:200px;
+    padding: 10px;
+}
+.para8{
+    padding: 7px;
+}
+.fig8{
+    color:#0f0e46;
+    font-weight: bold;
+    font-style:italic;
+    text-align:center;
+}
+	
+	
+
